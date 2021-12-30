@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Zhran
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning MEAN - MEVN stacks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I love competitive progamming c++
 - 📫 How to reach me ...
       facebook : https://www.facebook.com/ahmed.m.zhran.5
       linkedIn : https://www.linkedin.com/in/ahmed-zhran-a3268b220
