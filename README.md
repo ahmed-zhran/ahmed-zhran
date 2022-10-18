@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Ahmed Zhran
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning MEAN - MEVN stacks
-- 💞️ I love competitive progamming c++
+- 🌱 I’m currently open for internships
+- 👀 I’m interested in algorithms and datastructures
+- 💞️ I love competitive progamming and problem solving with c++
 - 📫 How to reach me ...
-      facebook : https://www.facebook.com/ahmed.m.zhran.5
       linkedIn : https://www.linkedin.com/in/ahmed-zhran-a3268b220
-      twitter  : https://twitter.com/ahmedzhran_mody
+      email: modymoro2015@gmail.com
 
 <!---
 ahmed-zhran/ahmed-zhran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
