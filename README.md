@@ -4,7 +4,7 @@
 - 👀 I’m interested in algorithms and datastructures
 - 💞️ I love competitive progamming and problem solving with c++
 - 📫 How to reach me ...
-      linkedIn : https://www.linkedin.com/in/ahmed-zhran-a3268b220
+      linkedIn : https://www.linkedin.com/in/ahmed-zhran
       email: modymoro2015@gmail.com
 
 <!---
