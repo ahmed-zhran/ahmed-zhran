@@ -5,7 +5,7 @@
 - 💞️ I love competitive progamming and problem solving with c++
 - 📫 How to reach me ...
       linkedIn : https://www.linkedin.com/in/ahmed-zhran
-      email: modymoro2015@gmail.com
+      email: ahmed.zhran.dev@gmail.com
 
 <!---
 ahmed-zhran/ahmed-zhran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
