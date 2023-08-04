@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ahmed Zhran
-- 👀 I’m interested in software development
-- 🌱 I’m currently open for internships
-- 👀 I’m interested in algorithms and datastructures
-- 💞️ I love competitive progamming and problem solving with c++
+- 👀 Aspiring Software Engineer (primary stack: MERN stack)
+- 👀 I’m interested in algorithms and data structures
+- 💞️ I love competitive programming and problem solving with C++
 - 📫 How to reach me ...
       linkedIn : https://www.linkedin.com/in/ahmed-zhran
       email: ahmed.zhran.dev@gmail.com
