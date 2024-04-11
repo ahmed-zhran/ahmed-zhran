@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ahmed Zhran
 - 👀 Aspiring Software Engineer (primary stack: MERN stack)
 - 👀 I’m interested in algorithms and data structures
+- 🧐 Enjoying Software Project Management and Agile development
 - 💞️ I love competitive programming and problem solving with C++
 - 📫 How to reach me ...
       linkedIn : https://www.linkedin.com/in/ahmed-zhran
